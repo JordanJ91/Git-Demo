@@ -1,2 +1,2 @@
 # Git-Demo
-Demo de Git (Test)
+Une démo de Git qui se passe bien !
